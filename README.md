@@ -1,3 +1,5 @@
+61 KEYS PIANO ONLY
+
 you'll need python installed and some packages
 
 heres python
